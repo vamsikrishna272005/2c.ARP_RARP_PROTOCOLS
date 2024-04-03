@@ -32,6 +32,7 @@ if __name__ == "__main__":
     ip_address = input("Enter the IP address to resolve: ")
     arp_client(ip_address)
 
+
 ```
 ## OUTPUT - ARP
  ![image](https://github.com/vamsikrishna272005/2c.ARP_RARP_PROTOCOLS/assets/147477015/809371d3-bdde-45a7-91c4-74ca6eeba446)
